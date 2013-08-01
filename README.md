@@ -16,6 +16,6 @@ License
 =======
 
 SimpliCI is open source software and everyone is welcomed to contribute and use it without any limitations.
-More about [GPLv3]: http://www.gnu.org/licenses/gpl.html
+More about [GPLv3](http://www.gnu.org/licenses/gpl.html )
 
 
